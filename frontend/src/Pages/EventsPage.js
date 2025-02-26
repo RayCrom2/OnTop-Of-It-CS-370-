@@ -7,7 +7,6 @@ function EventsPage(){
         <div>
             <NavBar></NavBar>
         <div>Events Page</div>
-
         <label>Search</label>
         <input type = 'text' />
         </div>
